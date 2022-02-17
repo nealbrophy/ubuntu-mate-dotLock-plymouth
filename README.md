@@ -13,10 +13,11 @@ Assuming you're on Ubuntu Mate (otherwise why would you want to install this):
 `sudo cp -r dotLockMate /usr/share/plymouth/themes/`
 
 4. Install the theme:
-`sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/dotLockMate/dotLock.plymouth`
+`sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/dotLockMate/dotLockMate.plymouth 100`
 
 5. Enable the theme (run the below then enter the number beside the theme you want to enable):
 `sudo update-alternatives --config default.plymouth`
+	- Enter the number that appears beside the theme you want to enable
 
 6. Update boot:
 `sudo update-initramfs -u`
