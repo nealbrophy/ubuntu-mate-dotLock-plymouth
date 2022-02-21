@@ -1,10 +1,10 @@
 # Ubuntu Mate dotLock Plymouth Theme
-This is a slightly customized version of [vikrashraghavan's dotLock](https://github.com/vikashraghavan/dotLock) (all I've done is whack the Ubuntu Mate logo into the centr at the end of the animation).
+This is a slightly customized version of [vikrashraghavan's dotLock](https://github.com/vikashraghavan/dotLock) (all I've done is whack the Ubuntu Mate logo into the center at the end of the animation).
 
 ## How to install
 Assuming you're on Ubuntu Mate (otherwise why would you want to install this):
 1. Clone this repo somewhere handy (e.g. your *Downloads* folder):
-`https://github.com/nealbrophy/ubuntu-mate-dotLock-plymouth`
+`git clone https://github.com/nealbrophy/ubuntu-mate-dotLock-plymouth`
 
 2. Change directory into the cloned repo:
 `cd ubuntu-mate-dotLock-plymouth`
